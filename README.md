@@ -2,7 +2,7 @@
 
 **`AI / ML Engineer`**
 
-Analista de IA e Dados e estudante de Ciência de Dados pela FIAP, atuo no desenvolvimento de soluções avançadas de Inteligência Artificial. Tenho forte experiência prática na construção de agentes inteligentes orquestrados por LLMs (MCP, LangChain) e na aplicação de machine learning para problemas complexos, como modelos de role mining e detecção de anomalias com deploy em Docker, Airflow e AWS.
+Analista de IA e Dados e estudante de Ciência de Dados pela FIAP, atuo no desenvolvimento de soluções avançadas de Inteligência Artificial. Tenho experiência prática na construção de agentes inteligentes orquestrados por LLMs (MCP, LangChain) e na aplicação de machine learning para problemas complexos, como modelos de role mining e detecção de anomalias com deploy em Docker, Airflow e AWS.
 
 No Desafio Quant AI 2026 (Itaú Asset), modelei o mercado acionário brasileiro como uma rede dinâmica, combinando grafos de correlação, transporte ótimo e curvatura de Ollivier-Ricci para identificar informações estruturais latentes nos ativos, com validação out-of-sample e controle de look-ahead bias.
 
